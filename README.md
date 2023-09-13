@@ -5,7 +5,7 @@ Encrypt and decrypt files using the Fernet symmetric key encryption in Python.
 
 ## Introduction
 
-This project provides a simple Python script to encrypt and decrypt files using the Fernet encryption library. Fernet is an implementation of symmetric (also known as "shared secret") authenticated cryptography, making it suitable for encrypting and decrypting files securely.
+This project provides a simple Python script to encrypt and decrypt files using the Fernet encryption library. Fernet is an implementation of symmetric (also known as "shared secret") authenticated cryptography, making it suitable for encrypting and decrypting files securely
 
 ## Prerequisites
 
