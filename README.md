@@ -18,5 +18,5 @@ Before you get started, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com//fernet-file-encryption.git
+   git clone https://github.com/bingoshade/cryptocs.git
 
